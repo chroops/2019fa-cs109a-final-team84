@@ -21,8 +21,8 @@
 
 Boston crime incident reports, Property assessment values, streetlight locations in Boston
 
-[Link]https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system
+[Link](https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system)
 
-[Link]https://data.boston.gov/dataset/property-assessment
+[Link](https://data.boston.gov/dataset/property-assessment)
 
-[Link]https://data.boston.gov/dataset/streetlight-locations
+[Link](https://data.boston.gov/dataset/streetlight-locations)
